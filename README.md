@@ -4,7 +4,7 @@
 ## 简介
 在蓝图里进行Debug绘制比较简单，比如在屏幕上绘制一句话：
 
-【图片】【图片】
+![Image](https://github.com/PengHY-114514/UnrealEngine-CppDebugSimplify/blob/main/ReadImg/01.jpg)
 
 但是在Cpp里就比较复杂，例如打印“Hello World”在屏幕上需要：
 
